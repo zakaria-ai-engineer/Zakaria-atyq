@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">👋 Hi! I’m Zakaria Atyq</h1><br><p align="center"><br>  <em>Student & AI/Chatbot Developer passionate about Python, NLP, and Web Development.</em><br><br>  I love building projects, learning new tech, and sharing my work on GitHub.<br></p><br><br>
+<h1 align="center">👋 Hi! I’m Zakaria Atyq</h1><br><p align="center"><br>  <em>Student & AI/Chatbot Developer passionate about Python, NLP,ml, and Web Development.</em><br><br>  I love building projects, learning new tech, and sharing my work on GitHub.<br></p><br><br>
 
 
 
